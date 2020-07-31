@@ -1,0 +1,18 @@
+.bg-blue {
+  background-color: royalblue;
+}
+
+.hero {
+  height: 400px;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.bettie {
+  text-align: center;
+  font-size: 100px;
+}
+
+.column-hero {
+  text-align: center;
+}
